@@ -9,6 +9,8 @@ The Guardian is an application that can be used to report an accident happening 
   - Google Assistant
   - Machine Learning
 
+### Data
+[Drive Link](https://drive.google.com/open?id=1p_O2e8wOLZsNf5ppXbCyHG2SdwL7tN-P)
 
 ### Used technologies
 
